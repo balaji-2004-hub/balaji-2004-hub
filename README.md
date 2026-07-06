@@ -73,11 +73,27 @@ A full-stack application where users exchange services using time credits instea
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=balaji-2004-hub&theme=tokyo-night)
 
-## 📫 Connect
+## 🐍 Contribution Snake
 
-- GitHub: https://github.com/balaji-2004-hub
-- LinkedIn: https://www.linkedin.com/in/balaji-talapaneni
-- Email: balaji.talapaneni@gmail.com
+<p align="center">
+  <img src="https://raw.githubusercontent.com/balaji-2004-hub/balaji-2004-hub/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
+---
+
+## 🚀 Current Focus
+
+- 🌱 Learning Spring Boot & Angular
+- 💻 Building Java Full Stack projects
+- 🤖 Exploring AI & Machine Learning
+- 🎯 Open to Software Engineer opportunities
+
+---
+
+## 📫 Connect With Me
+
+- 📧 balaji.talapaneni@gmail.com
+- 💼 https://www.linkedin.com/in/balaji-talapaneni
+- 💻 https://github.com/balaji-2004-hub
 ---
 ⭐ Thanks for visiting my profile!
