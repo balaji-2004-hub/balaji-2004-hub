@@ -50,11 +50,22 @@ A full-stack application where users exchange services using time credits instea
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=balaji-2004-hub&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=balaji-2004-hub&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-2004-hub&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=balaji-2004-hub&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=balaji-2004-hub&theme=tokyonight&hide_border=true" />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-2004-hub&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balaji-2004-hub&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji-2004-hub&theme=tokyo-night" />
+</p>
 
 ## 🏆 Trophies
 
