@@ -1,20 +1,8 @@
 # 👋 Hi, I'm **Balaji Talapaneni**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=180&section=header&text=Balaji%20Talapaneni&fontSize=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Hi+I'm+Balaji+Talapaneni;Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate;Spring+Boot+%7C+React+%7C+Angular;Always+Learning+New+Technologies"/>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AI+%26+Data+Science+Graduate;Spring+Boot+%7C+React+%7C+Angular;Always+Learning+New+Technologies"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/balaji-2004-hub"><img src="https://img.shields.io/badge/GitHub-balaji--2004--hub-black?style=for-the-badge&logo=github"></a>
-<a href="mailto:balaji.talapaneni@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/balaji-talapaneni"><img src="https://img.shields.io/badge/LinkedIn-Balaji-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
-
----
 
 ## 🚀 About Me
 
