@@ -73,11 +73,7 @@ A full-stack application where users exchange services using time credits instea
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=balaji-2004-hub&theme=tokyo-night)
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/balaji-2004-hub/balaji-2004-hub/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
 
 ---
 
