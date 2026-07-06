@@ -67,8 +67,6 @@ A full-stack application where users exchange services using time credits instea
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji-2004-hub&theme=tokyo-night" />
 </p>
 
-## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=balaji-2004-hub&theme=tokyonight
 
 
 ## 📈 Activity Graph
